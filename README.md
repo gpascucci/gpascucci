@@ -1,26 +1,52 @@
-# Hi, I'm Greg 👋
+# Greg Pascucci
 
-Welcome to my GitHub profile.
+Software developer using GitHub to build, maintain, and collaborate on software projects.
 
-## About me
+## About
 
-I'm a developer who uses GitHub to build, explore, and collaborate on software projects.
+I use GitHub as a place to develop ideas, manage code, and collaborate through issues, pull requests, and code review. This profile highlights the projects, technologies, and workflows I use most often.
 
-## How I use GitHub
+## Focus Areas
 
-- Building and sharing software projects
-- Experimenting with ideas and prototypes
-- Tracking work through issues and pull requests
-- Collaborating through code review
-- Learning new tools and technologies
+- Application development
+- Prototyping and experimentation
+- Code review and collaboration
+- Continuous learning and technical exploration
 
-## What you'll find here
+## Tech Stack
 
-- Personal projects
-- Experiments and prototypes
-- Code samples
-- Ongoing learning work
+**Languages**
+- JavaScript
+- TypeScript
+- Python
+- SQL
+- HTML/CSS
 
-## Connect
+**Tools & Platforms**
+- GitHub
+- Git
+- Node.js
+- Docker
+- REST APIs
 
-- GitHub: https://github.com/gpascucci
+**Practices**
+- Version control
+- Pull request review
+- Issue tracking
+- Incremental delivery
+- Automation and scripting
+
+## Current Activity
+
+- Active development and experimentation in public repositories
+- Ongoing learning through small projects and iterative improvements
+- Using GitHub issues and pull requests to organize and track work
+
+## GitHub
+
+- Profile: https://github.com/gpascucci
+- Repositories: https://github.com/gpascucci?tab=repositories
+
+---
+
+Thanks for visiting my profile.
