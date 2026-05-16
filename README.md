@@ -42,6 +42,10 @@ I use GitHub as a place to develop ideas, manage code, and collaborate through i
 - Ongoing learning through small projects and iterative improvements
 - Using GitHub issues and pull requests to organize and track work
 
+## Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gpascucci&theme=default)
+
 ## GitHub
 
 - Profile: https://github.com/gpascucci
